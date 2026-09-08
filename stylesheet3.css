@@ -1,0 +1,19 @@
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p {
+    font-family: monospace;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.blue{
+    color:blue;
+}
+
+.green{
+    color:green;
+}

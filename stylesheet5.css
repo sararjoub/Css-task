@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.article {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Article 1 */
+.article-one {
+    border: 2px solid gray;
+}
+
+/* Article 2 */
+.article-two {
+    border: 2px dashed gray;
+}
+
+.article-two p {
+    border: 2px dashed red;
+    padding: 5px;
+}
+
+/* Article 3 */
+.article-three {
+    border: 2px solid gray;
+}
+
+.article-three h2,
+.article-three p {
+    color: purple;
+}
+
+/* Highlighted words */
+span {
+    background-color: khaki;
+    font-weight: bold;
+}

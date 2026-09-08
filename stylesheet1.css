@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.first-paragraph {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.third-paragraph {
+    background-color: lightblue;
+    background-image: url("img.jpg");
+
+}

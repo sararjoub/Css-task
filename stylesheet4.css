@@ -1,0 +1,11 @@
+table {
+    border-spacing: 8px;
+}
+
+td {
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 8px 10px;
+    box-shadow: 2px 2px 3px gray;
+    background-color: white;
+}

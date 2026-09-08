@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    color: goldenrod;
+    font-size: 32px;
+}
+
+h2 {
+    text-align: right;
+    font-size: 30px;
+}
+
+.first-paragraph {
+    text-align: left;
+    font-size: 20px;
+}
+
+.second-paragraph {
+    text-align: right;
+    font-family: monospace;
+    color: gray;
+}
