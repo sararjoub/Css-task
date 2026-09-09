@@ -1,20 +1,24 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: antiquewhite;
 }
+
 
 .article {
     width: 70%;
     padding: 10px;
     margin-bottom: 15px;
+    background-color: white;
+    
 }
 
-/* Article 1 */
+
 .article-one {
     border: 2px solid gray;
 }
 
-/* Article 2 */
+
 .article-two {
     border: 2px dashed gray;
 }
@@ -24,7 +28,7 @@ body {
     padding: 5px;
 }
 
-/* Article 3 */
+
 .article-three {
     border: 2px solid gray;
 }
@@ -34,7 +38,7 @@ body {
     color: purple;
 }
 
-/* Highlighted words */
+
 span {
     background-color: khaki;
     font-weight: bold;
