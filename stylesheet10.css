@@ -1,0 +1,46 @@
+/*
+
+page 10 */
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+.container {
+    min-height: 100vh;
+
+    display: flex;
+}
+
+
+.part {
+    flex: 1;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    font-family: Georgia, serif;
+
+    font-size: 32px;
+
+    color: white;
+}
+
+
+.first {
+    background-color: #f3a72e;
+}
+
+
+.second {
+    background-color: blue;
+}

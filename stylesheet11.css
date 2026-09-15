@@ -1,0 +1,85 @@
+/* page 11
+*/
+
+
+    * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 30px 60px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin: 0 0 10px;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+
+
+
+.demo {
+    width: 590px;
+    height: 145px;
+
+    display: flex;
+
+    gap: 5px;
+
+    margin-bottom: 55px;
+
+    border: 2px dotted #222;
+
+    position: relative;
+}
+
+
+
+
+.item {
+    flex: 1;
+    height: 145px;
+
+    padding: 5px;
+
+    font-size: 20px;
+}
+
+
+
+
+.red {
+    background-color: #ef3028;
+}
+
+
+
+.green {
+    background-color: #2f7f25;
+}
+
+
+
+.relative-two {
+    position: relative;
+
+    top: 28px;
+    left: 35px;
+}
+
+
+
+.absolute-two {
+    position: absolute;
+
+    top: 20px;
+    left: 20px;
+
+    width: 145px;
+    height: 145px;
+}
+
+

@@ -1,0 +1,88 @@
+/* 
+page 7 */
+
+
+    * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    background-color:white;
+}
+
+
+.container {
+    width: calc(100% - 20px);
+
+    height: 95vh;
+
+    margin: 10px;
+
+    padding: 10px;
+
+    border: 10px solid #d4af37;
+
+    display: flex;
+
+    flex-wrap: nowrap;
+}
+
+
+.box {
+    flex: 1;
+
+    height: 100%;
+
+    display: flex;
+
+    justify-content:center;
+
+    align-items: flex-start;
+
+    padding-top: 9px;
+
+    font-family: Georgia, serif;
+
+    font-size: 40px;
+
+    color: white;
+}
+
+
+.box1 {
+    background-color: #2f7d22;
+}
+
+.box2 {
+    background-color: yellow;
+}
+
+.box3 {
+    background-color: #7b1384;
+}
+
+.box4 {
+    background-color: #888;
+}
+
+.box5 {
+    background-color: blue;
+}
+
+.box6 {
+    background-color: #f3a72e;
+}
+
+.box7 {
+    background-color: pink;
+}
+
+.box8 {
+    background-color: red;
+}
+
+.box9 {
+    background-color: #a62d2d;
+}
